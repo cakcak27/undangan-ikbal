@@ -7,7 +7,7 @@ import '@assets/css/icomoon.css';
 import '@assets/css/bootstrap.css';
 import '@assets/css/style.css';
 
-const IMAGE_URL = `https://thekusuma.com/static/slide-6-4715e29302dbaa2ba21494c6258298d4.jpg`;
+const IMAGE_URL = `https://uleman-nikah.netlify.app/static/tunangan-ikbal-novi-26986c24bfdac601e3826dbd0def958a.png`;
 const META_DESCRIPTION = `Dengan memohon Rahmat dan Ridho Illahi, teriring niat menjalankan Sunnah Rasulullah ﷺ untuk membentuk rumah tangga yang Sakinah, Mawaddah wa Rahmah, kami mohon do'a agar senantiasa diberikan kelancaran dan keberkahan. - Ikbal & Novi`;
 
 function MainLayout({ children }) {
@@ -22,7 +22,7 @@ function MainLayout({ children }) {
         {/* font and SEO tags */}
         <meta property="og:title" content="The Wedding of Ikbal & Novi" />
         <meta property="og:image" content={IMAGE_URL} />
-        <meta property="og:url" content="undanganikbal" />
+        <meta property="og:url" content="https://uleman-nikah.netlify.app" />
         <meta property="og:site_name" content="The Wedding of Ikbal & Novi" />
         <meta property="og:description" content={META_DESCRIPTION} />
 
