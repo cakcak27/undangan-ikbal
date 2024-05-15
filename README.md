@@ -1,6 +1,7 @@
 # Novi & Ikbal Wedding Website
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f8f2435e-9625-44bb-9dc3-42d228252986/deploy-status)](https://app.netlify.com/sites/uleman-nikah/deploys)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/cakcak27/undangan-ikbal)
 
 Features:
 - Landing Page, with features like:
